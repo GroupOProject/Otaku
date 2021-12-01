@@ -21,7 +21,7 @@ body{
 }
 /*Sean*/
 .Otaku{
-    font-family: ;
+
 }
 #h_bar li a{
     /*presley*/
@@ -45,9 +45,9 @@ body{
 /*preseley- add a hover on nav bar that changes color,an also gives an animation whe cursor is pointed at it*/
 #h1_bar li a:hover{
 
-  box-shadow: inset 0 0 0 2px yellow;
-  color:gray;
-  cursor:pointer;
+    box-shadow: inset 0 0 0 2px yellow;
+    color:gray;
+    cursor:pointer;
 }
 /*Sean*/
 .para1{
@@ -162,10 +162,10 @@ h1{
 
 /*presley*/
 .saopara{
-  font-family: 'Oswald',
-  sans-serif;
-  font-family: 'Shippori Antique',
-  sans-serif;
+    font-family: 'Oswald',
+    sans-serif;
+    font-family: 'Shippori Antique',
+    sans-serif;
 
 
 
@@ -173,35 +173,35 @@ h1{
 }
 /*presley*/
 .kirito_and_co{
-  width:294px;
-  height:411px;
-  margin:40px;
-  float:right;
-  position:relative;
-  top:-300px;
+    width:294px;
+    height:411px;
+    margin:40px;
+    float:right;
+    position:relative;
+    top:-300px;
 
 }
 .saopara{
-  float:left;
+    float:left;
 }
 
 /*Solomon*/
 .characters{
-  width: 50%;
-  height: 30%;
-  position:relative;
-  top:-300px;
-  float:Center;
-  margin:0 0 0 15px;
+    width: 50%;
+    height: 30%;
+    position:relative;
+    top:-300px;
+    float:Center;
+    margin:0 0 0 15px;
 }
 
 .kage{
-  width:50%;
-  height:25%;
-  position:relative;
-  top:-300px;
-  float:center;
-  margin:0 0 0 15px;
+    width:50%;
+    height:25%;
+    position:relative;
+    top:-300px;
+    float:center;
+    margin:0 0 0 15px;
 }
 
 /*Sean*/
